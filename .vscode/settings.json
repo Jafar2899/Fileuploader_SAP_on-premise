@@ -1,18 +1,1 @@
-{
-    "abapfs.remote": {
-        "S4D": {
-            "url": "http://usegsaprds4d.vistex.com:8000",
-            "username": "JMAHMMAD",
-            "password": "",
-            "client": "040",
-            "language": "en",
-            "allowSelfSigned": false,
-            "diff_formatter": "ADT formatter",
-            "maxDebugThreads": 4,
-            "sapGui": {
-                "disabled": false,
-                "guiType": "WEBGUI_UNSAFE_EMBEDDED"
-            }
-        }
-    }
-}
+
