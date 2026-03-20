@@ -48,3 +48,46 @@ Test the Service: In SICF, right-click your service and select Test Service. Thi
 The target table must be active in the ABAP Dictionary (SE11).
 
 The JSON field names must exactly match the ABAP field names (Case-sensitive depending on your deserialization settings).
+Note : demo JSON.
+[
+  {
+    "MANDT": "040",
+    "JOBID": "0000000001",
+    "EMNAM": "STEVE ROGERS",
+    "EDESG": "CAP",
+    "ESLAF": "150.35",
+    "ESALL": "150000.00",
+    "ECUKY": "USD",
+    "EFLAG": "X"
+  },
+  {
+    "MANDT": "040",
+    "JOBID": "0000000002",
+    "EMNAM": "ANTHONY EDWARD STARK",
+    "EDESG": "CAP",
+    "ESLAF": "150000.00",
+    "ESALL": "450000.00",
+    "ECUKY": "USD",
+    "EFLAG": ""
+  },
+  {
+    "MANDT": "040",
+    "JOBID": "0000000003",
+    "EMNAM": "THOR",
+    "EDESG": "VC",
+    "ESLAF": "23333.00",
+    "ESALL": "2333.00",
+    "ECUKY": "USD",
+    "EFLAG": "X"
+  },
+  {
+    "MANDT": "040",
+    "JOBID": "0000000004",
+    "EMNAM": "NATASHA",
+    "EDESG": "MEMBER",
+    "ESLAF": "0.00",
+    "ESALL": "150.00",
+    "ECUKY": "USD",
+    "EFLAG": ""
+  }
+]
